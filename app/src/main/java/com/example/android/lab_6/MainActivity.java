@@ -11,7 +11,7 @@ import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.MarkerOptions;
 
 public class MainActivity extends FragmentActivity {
-
+    //private final LatLng mDestinationLatLng = new LatLng(43.0752778, -89.4063554);
     private final LatLng mDestinationLatLng = new LatLng(43.0752778, -89.4063554);
     private GoogleMap mMap;
 
